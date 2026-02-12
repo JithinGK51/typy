@@ -8,3 +8,9 @@ print("Order details: ", order_list)
 print("Thank you for your order!")
 
 print("Your order has been placed successfully!")
+
+b = input("Do you want to place another order? (yes/no): ")
+if b.lower() == "yes":
+    a = input("Enter the order details: ")
+    order_list.append(a)
+    print("Order details: ", order_list)
