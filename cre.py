@@ -6,3 +6,7 @@ if a >= 50:
 else:
     print("Sorry, you have failed the exam. Better luck next time!")
 
+print("Thank you for using our service!")
+
+print("Have a great day!")
+
