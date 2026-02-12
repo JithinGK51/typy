@@ -4,3 +4,7 @@ a = input("Enter the order details: ")
 order_list = []
 order_list.append(a)
 print("Order details: ", order_list)
+
+print("Thank you for your order!")
+
+print("Your order has been placed successfully!")
